@@ -1,8 +1,8 @@
 addon.name      = 'minimapfilter'
-addon.author    = 'GaiaXI'
+addon.author    = 'ai'
 addon.version   = '1.0.0'
 addon.desc      = 'Filters which monsters appear on the minimap plugin'
-addon.link      = 'https://github.com/GaiaXI'
+addon.link      = 'https://github.com/kchang4/minimapfilter'
 
 --[[
     MinimapFilter - Custom monster filtering for the Minimap plugin
